@@ -1,0 +1,54 @@
+[33mcommit 14f07c139c65ec0a847dc96ab12d2d4f64b04d35[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: Damian Deza <damiandeza@gmail.com>
+Date:   Fri May 14 11:56:37 2021 -0300
+
+    agregue hola
+
+[33mcommit c629cf058cfc5e12bb84de748b6a10e32728aa33[m
+Author: Damian Deza <damiandeza@gmail.com>
+Date:   Fri May 14 11:54:55 2021 -0300
+
+    Agregue la consigna
+
+[33mcommit 195cabfe1a8e00d569220539a6cb30fc3c18b1fa[m
+Author: Damian Deza <damiandeza@gmail.com>
+Date:   Fri May 14 11:49:35 2021 -0300
+
+    Agregue un numero
+
+[33mcommit d91fb352490b016050517a75a066b5cfeff75638[m
+Merge: ac24a3c 6aadac7
+Author: Damian Deza <damiandeza@gmail.com>
+Date:   Fri May 14 11:46:14 2021 -0300
+
+    Arreglado cambios
+
+[33mcommit ac24a3ca9ffc4639f03e9c42729f58562c7b3fd7[m
+Author: Damian Deza <damiandeza@gmail.com>
+Date:   Fri May 14 11:34:59 2021 -0300
+
+    Modifique empleado
+
+[33mcommit 6aadac7e9583dad34e740e60b818c237b28746a6[m
+Author: florradzik <florencia.radzik@gmail.com>
+Date:   Fri May 14 11:30:54 2021 -0300
+
+    Puse un nombre en persona
+
+[33mcommit 6f12bf022798100c8c65b6203839a5a7a24abb2c[m
+Author: Damian Deza <damiandeza@gmail.com>
+Date:   Fri May 14 11:15:10 2021 -0300
+
+    Agregue clases persona y empleado
+
+[33mcommit e1d9c50cf75f8e73fc179ce408c050a3f473b910[m
+Author: Damian Deza <damiandeza@gmail.com>
+Date:   Fri May 14 11:10:16 2021 -0300
+
+    Add project files.
+
+[33mcommit ce547120f8fb4cb46ec8b4c850e3ae2feae8ce4a[m
+Author: Damian Deza <damiandeza@gmail.com>
+Date:   Fri May 14 11:10:13 2021 -0300
+
+    Add .gitignore and .gitattributes.
