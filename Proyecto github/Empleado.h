@@ -8,5 +8,6 @@ class Empleado :
 {
     string nombre;
     string codigo_empleado;
+    int num;
 };
 
